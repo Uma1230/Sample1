@@ -4,5 +4,7 @@ public class Hello
 	{
 		System.out.println("Hello world");
 		System.out.println("Hi");
+		Syatem.out.println("Hi Hello");
+
 	}
 }
